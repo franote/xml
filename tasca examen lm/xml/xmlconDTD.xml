@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE questions>
+<questions>
+	<question>
+		<type>text</type>
+		<title>¿Cómo se llama el que se sienta a mi lado?</title>
+		<answer>Miki</answer>
+	</question>
+	<question>
+		<type>text</type>
+		<title>¿Cómo me llamo?</title>
+		<answer>Fran</answer>
+	</question>
+	<question>
+		<type>select</type>
+		<title>¿A quien odio más?</title>
+		<option>Sergi</option>
+		<option>Samu</option> 
+		<option>Miki</option>
+		<option>Chispas</option>
+		<answer>1</answer> 
+	</question>
+	<question>
+		<type>select</type>
+		<title>¿Como suelo venir a clase?</title>
+		<option>En avión</option>
+		<option>En coche</option> 
+		<option>En bici</option>
+		<option>Andando</option>
+		<answer>1</answer> 
+	</question>		 
+	<question>
+		<type>multiple</type>
+		<title>¿Cuales de estas asignaturas estoy cursando? </title>
+		<option>Base de datos</option>
+		<option>Programación</option> 
+		<option>Sistemas operativos</option> 
+		<option>Lenguaje de marcas</option>
+		<answer>0</answer>
+		<answer>2</answer>
+		<answer>3</answer>
+	</question>
+	<question>
+		<type>multiple</type>
+		<title>¿Cuantos años tengo?</title>
+		<option>19</option>
+		<option>20</option> 
+		<option>21</option> 
+	<answer>0</answer>
+	
+	</question>
+	<question>
+		<type>checkbox</type>
+		<title>¿Que quiero ser cuando termine mis estudios?</title>
+		<option>Informático</option>
+		<option>Policia</option> 
+		<option>Bombero</option> 
+		<option>Rico</option>
+		<answer>1</answer>
+
+	</question>
+	<question>
+		<type>checkbox</type>
+		<title>¿Donde vivo?</title>
+		<option>Palma</option>
+		<option>Llucmajor</option> 
+		<option>Arenal</option> 
+		<answer>2</answer>
+	</question>
+	<question >
+		<type>radio</type>
+		<title>¿Que deporte solia practicar?</title>
+		<option>Fútbol</option>
+		<option>Voleibol</option> 
+		<option>Futbol americano</option> 
+		<option>Tenis</option>
+		<answer>2</answer>
+	</question>
+	<question>
+		<type>radio</type>
+		<title>¿Que asignatura voy a aprobar en la recuperación de junio?</title>
+		<option>Base de datos</option>
+		<option>Sistemas operativos</option> 
+		<option>Lenguaje de marcas</option> 
+		<option>Redes</option>
+		<answer>1</answer>		  
+	</question>		 
+</questions>			
